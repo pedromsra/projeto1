@@ -1,0 +1,18 @@
+>>>Selecionar no google fontes as fontes desejadas;
+
+>>>Copiar do Goole fontes para o HTML o componente <link>;
+
+>>>Crirar o link:css (<link rel="stylesheet" href="style.css">)
+        para o arquivo referido; ex: style.css;
+
+>>>Copiar do Google fontes para o CSS as regras para especificar
+        a famlia de fontes (Google);
+
+>>>Dizer onde vai cada família, ex:
+        h1 {
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+        }
